@@ -2,7 +2,7 @@
 
 This Python project was developed as part of the master course **Development Methods of Applied Intelligent Software Systems** in the winter semester 2022/23 at Riga Technical University.
 
-Here are some examples:
+Here are some generated crosswords:
 
 <p float="left" align="middle">
   <img src="https://github.com/LasHarry/AI_Crossword_Generator/blob/master/crossword/img/output_1.png" width="20%" />
